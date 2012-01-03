@@ -36,6 +36,6 @@ $(call inherit-product-if-exists, vendor/samsung/p5wifi/p5wifi-vendor.mk)
 PRODUCT_BUILD_PROP_OVERRIDES += BUILD_UTC_DATE=0
 PRODUCT_NAME := p5wifi
 PRODUCT_DEVICE := p5wifi
-PRODUCT_MODEL := p5wifi
-PRODUCT_BRAND := samsung
-PRODUCT_MANUFACTURER := samsung
+PRODUCT_MODEL := GT-P7310
+PRODUCT_BRAND := Samsung
+PRODUCT_MANUFACTURER := Samsung
