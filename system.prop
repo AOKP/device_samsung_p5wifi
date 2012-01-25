@@ -1,5 +1,5 @@
 #
-# system.prop for P3
+# system.prop for P5wifi
 #
 ro.opengles.version = 131072
 wifi.interface=eth0
