@@ -14,4 +14,4 @@
 # limitations under the License.
 #
 
-add_lunch_combo  p5wifi-userdebug
+#add_lunch_combo  p5wifi-userdebug
